@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tijanimukhtar_" target="blank"><img src="https://img.shields.io/twitter/follow/tijanimukhtar_?logo=twitter&style=for-the-badge" alt="tijanimukhtar_" /></a> </p>
 
-- 🌱 I’m currently learning **Famework and taking Courses**
+- 🌱 I’m currently learning **Software Development Frameworks and taking appropriate Courses**
 
 - 👨‍💻 All of my projects are available at [https://tijanimukhtarakande.github.io/cv/](https://tijanimukhtarakande.github.io/cv/)
 
@@ -16,6 +16,7 @@
 - 📫 How to reach me **tijanimukhtarr@gmail.com**
 
 - 📄 Know about my experiences [https://tijanimukhtarakande.github.io/cv/](https://tijanimukhtarakande.github.io/cv/)
+- I am open and actively searching for an Internship or a Junior Level developer Role
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
