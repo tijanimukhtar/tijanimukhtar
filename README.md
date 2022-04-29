@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tijanimukhtarakande&show_icons=true&locale=en" alt="tijanimukhtarakande" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tijanimukhtarakande&" alt="tijanimukhtarakande" /></p>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d044668c-0cb9-4675-919f-ad030a5e7be7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
