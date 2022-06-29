@@ -15,7 +15,7 @@
 - 📫 How to reach me **tijanimukhtarr@gmail.com**
 
 - 📄 Know about my experiences [https://tijanimukhtarakande.github.io/cv/](https://tijanimukhtarakande.github.io/cv/)
-- I am open and actively searching for an Internship or a Junior Level developer Role
+- I am open and actively searching for an Internship or a Entry/Junior Level developer Roles
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
