@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tijanimukhtar_" target="blank"><img src="https://img.shields.io/twitter/follow/tijanimukhtar_?logo=twitter&style=for-the-badge" alt="tijanimukhtar_" /></a> </p>
 
-- 🌱 I’m currently learning **Software Development Frameworks**
+- 🌱 I’m currently building my capacity as a **Software Development Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://tijanimukhtarakande.github.io/cv/](https://tijanimukhtarakande.github.io/cv/)
 
