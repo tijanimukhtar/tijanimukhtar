@@ -17,16 +17,8 @@
 - 📄 Know about my experiences [https://tijanimukhtarakande.github.io/cv/](https://tijanimukhtarakande.github.io/cv/)
 - I am open and actively searching for an Internship or a Entry/Junior Level developer Roles
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/tijanimukhtarakande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tijanimukhtarakande" height="30" width="40" /></a>
-<a href="https://dev.to/tijanimukhtarakande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tijanimukhtarakande" height="30" width="40" /></a>
-<a href="https://twitter.com/tijanimukhtar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tijanimukhtar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tijanimukhtarakande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tijanimukhtarakande" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tijanimukhtarakande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tijanimukhtarakande" height="30" width="40" /></a>
-<a href="https://instagram.com/tijanimukhtarakande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tijanimukhtarakande" height="30" width="40" /></a>
-<a href="https://dribbble.com/tijanimukhtarakande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tijanimukhtarakande" height="30" width="40" /></a>
-<a href="https://www.behance.net/tijanimukhtarakande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="tijanimukhtarakande" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tijanimukhtarakande) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tijanimukhtarakande) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tijanimukhtarakande) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tijanimukhtarakande) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/tijanimukhtarakande) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/tijanimukhtarakande) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/tijanimukhtarakande) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tijanimukhtarakande) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/tijanimukhtarakande) 
 
 </p>
 
