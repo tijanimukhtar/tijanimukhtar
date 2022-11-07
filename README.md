@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Tijani Mukhtar Akande</h1>
+<h1 align="center">Hi 👋, I am Tijani Mukhtar Akande :godmode:</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tijanimukhtar&label=Profile%20views&color=0068a8&style=plastic" alt="tijanimukhtar" /> </p>
